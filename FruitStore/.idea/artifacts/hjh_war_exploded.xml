@@ -1,0 +1,48 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hjh:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hjh_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lcy" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/el-api.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/jasper.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/jsp-api.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/catalina.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/ecj-4.6.3.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/jasper-el.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/jaspic-api.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-api.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/catalina-ha.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/servlet-api.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-util.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/catalina-ant.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/jstl-api-1.2.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/jstl-impl-1.2.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/websocket-api.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-i18n-de.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-i18n-es.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-i18n-fr.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-i18n-ja.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-i18n-ko.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-i18n-ru.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/annotations-api.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/tomcat-i18n-zh-CN.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="D:/DevSoftware/apache-tomcat-8.5.49/lib/mysql-connector-java-8.0.11.jar" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="lcy/web/Web" />
+    </root>
+  </artifact>
+</component>
